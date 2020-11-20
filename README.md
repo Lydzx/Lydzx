@@ -15,10 +15,8 @@ Hi, I'm Lydzx, a Front-End Developer from Bandung, West Java, Indonesia. :D
  **My Friends**
  
 - **[@YuriAkari](https://github.com/YuriAkari)**
-- **[@Pramac](https://github.com/Pramac)**
 - **[@VeguiIzumi](https://github.com/VeguiIzumi)**
 - **[@Allvaa](https://github.com/Allvaa)**
-- **[@WilloIzCitron](https://github.com/WilloIzCitron)**
 
 **Tool & Languages**  
 
