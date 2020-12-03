@@ -4,12 +4,15 @@
 
 <br />
 
-Hi, I'm Lydzx, a Front-End Developer from Bandung, West Java, Indonesia. :D
+Hi, I'm <b>Lydzx</b>, a Front-End Developer from Bandung, West Java, Indonesia. :D
 
 **About Me**
 
 - ✨ Nothing special is in my life.
 - 🌎 Find me on <a href="https://discord.com/users/744822067740016640">Discord</a>
+- ⚒️ Moderator on <a href="https://brainly.co.id">Brainly.co.id</a>
+- 🛡️ Administrator on <a href="https://ddx.my.id">DDX.my.id</a>
+- 🇮🇩 Translator from <a href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a>
 
  **My Friends**
  
