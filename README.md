@@ -20,7 +20,7 @@ Hi, I'm <b>Lydzx</b>, a Front-End Developer from Bandung, West Java, Indonesia. 
 - **[@VeguiIzumi](https://github.com/VeguiIzumi)**
 - **[@Allvaa](https://github.com/Allvaa)**
 
-** My Discord**
+**My Discord**
 
 ![Discord](https://discord.c99.nl/widget/theme-2/744822067740016640.png)
 
