@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lydzx" alt="lydzx" /></a> </p>
 
-- 🔭 I’m currently working on [Vrrrr PRO](https://discord.com/oauth2/authorize?client_id=783645516499255316&scope=bot&permissions=2147483647)
+- 🔭 I’m currently working on [Bear Bot](https://www.mikebots.com/invite)
 
 - 🇮🇩 Translator from **Bandung, West Java, Indonesia**
 
