@@ -9,9 +9,11 @@
 
 - ⚒️ Moderator on [Brainly.co.id](https://brainly.co.id)
 
-- 📫 How to reach me **lyden@ddx.my.id**
+- Administrator & Co-Founder at [DDX](https://ddx.my.id)
 
 - ⚡ Fun fact **Nothing ;)**
+
+- 📫 How to reach me **lyden@ddx.my.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
