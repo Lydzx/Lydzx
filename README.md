@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lyden</h1>
 <h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX, Moderator on brainly.co.id</h3>
 
-- 🔭 I’m currently working on [Vrrrr PRO](https://discord.com/oauth2/authorize?client_id=783645516499255316&scope=bot&permissions=2147483647)
 
 - 🇮🇩 Translator from **Bandung, West Java, Indonesia**
 
@@ -9,7 +8,7 @@
 
 - ⚒️ Moderator on [Brainly.co.id](https://brainly.co.id)
 
-- Administrator & Co-Founder at [DDX](https://ddx.my.id)
+- 🔭 Administrator & Co-Founder at [DDX](https://ddx.my.id)
 
 - ⚡ Fun fact **Nothing ;)**
 
