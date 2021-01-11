@@ -20,9 +20,6 @@
 <a href="https://instagram.com/lydenzx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lyd_dev" height="30" width="40" /></a>
 <a href="https://discord.com/users/744822067740016640" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="y" height="30" width="40" /></a>
 </p>
-<h3 align="left">Discord Activity</h3>
-
-![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/744822067740016640?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/744822067740016640&color=1ED45F)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lydzx&show_icons=true&locale=en&layout=compact" alt="lydzx" /></p>
 
