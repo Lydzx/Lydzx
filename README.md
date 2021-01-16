@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lydzx&show_icons=true&locale=en" alt="lydzx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lydzx&" alt="lydzx" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lydzx&show_icons=true&count_private=true" alt="lydzx" /></p>
+<p><img align="center" src="https://metrics.lecoq.io/lydzx" alt="lydzx" /></p>
