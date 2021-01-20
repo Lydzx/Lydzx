@@ -6,8 +6,6 @@
 
 - 🌎 Find me on [Discord](https://discord.com/users/744822067740016640)
 
-- ⚒️ Moderator on [Brainly.co.id](https://brainly.co.id)
-
 - 🔭 Administrator & Co-Founder at [DDX](https://ddx.my.id)
 
 - ⚡ Fun fact **Nothing ;)**
