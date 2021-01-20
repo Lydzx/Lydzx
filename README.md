@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Lyden</h1>
-<h3 align="center">Front-End Developer, translator from Korea, Administrator & Co-Founder at DDX, Moderator on brainly.co.id</h3>
+<h3 align="center">Front-End Developer, translator from Korea, Administrator & Co-Founder at DDX</h3>
 
 
 - 🇰🇷 Translator from **Seoul, Korea**
