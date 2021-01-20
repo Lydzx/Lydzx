@@ -6,11 +6,11 @@
 
 - 🌎 Find me on [Discord](https://discord.com/users/744822067740016640)
 
-- 🔭 Administrator & Co-Founder at [DDX](https://ddx.my.id)
+- 🔭 Administrator & Co-Founder at [DDX](https://ddx.kr)
 
 - ⚡ Fun fact **Nothing ;)**
 
-- 📫 How to reach me **lyden@ddx.my.id**
+- 📫 How to reach me **lyden@ddx.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
