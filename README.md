@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Nothing ;)**
 
-- 📫 How to reach me **lyden@ddx.my.id**
+- 📫 How to reach me **dev@ddx.my.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
