@@ -1,16 +1,20 @@
-<h1 align="center">Hello 👋🏻, I'm Lyden</h1>
-<h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX</h3>
+<h1 align="center">Hello 👋🏻, I'm HVOA (as Hwoa)</h1>
+<h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX, Wikipedia Indonesia's Contributor, Moderator on Brainly.co.id</h3>
 
 
 - 🇮🇩 Translator from **Bandung, Indonesia**
 
 - 🌎 Find me on [Discord](https://discord.com/users/744822067740016640)
 
-- 🔭 Administrator & Co-Founder at [DDX](https://ddx.my.id)
+- 🛡️ Administrator & Co-Founder at [DDX](https://ddx.my.id)
 
 - ⚡ Fun fact **Nothing ;)**
 
 - 📫 How to reach me **dev@ddx.my.id**
+
+- ⚜ Contributor Wikipedia Indonesia
+
+- 📚 Part of [Brainly.co.id](https://brainly.co.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lydzx&show_icons=true&locale=en&layout=compact" alt="lydzx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lydzx&show_icons=true&locale=en" alt="lydzx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvoa&show_icons=true&locale=en" alt="hvoa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lydzx&" alt="lydzx" /></p>
-<p><img align="center" src="https://metrics.lecoq.io/lydzx" alt="lydzx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvoa&" alt="hvoa" /></p>
