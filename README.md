@@ -23,7 +23,7 @@
 <a href="https://discord.com/users/744822067740016640" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="y" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lydzx&show_icons=true&locale=en&layout=compact" alt="lydzx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvoa&show_icons=true&locale=en&layout=compact" alt="lydzx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvoa&show_icons=true&locale=en" alt="hvoa" /></p>
 
