@@ -22,7 +22,7 @@
 <a href="https://instagram.com/lydenzx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lyd_dev" height="30" width="40" /></a>
 <a href="https://discord.com/users/744822067740016640" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="y" height="30" width="40" /></a>
 </p>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312ncaexszedvv5ysr2vpfd72zfq&cover_image=true&theme=default)]
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvoa&show_icons=true&locale=en&layout=compact" alt="lydzx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvoa&show_icons=true&locale=en" alt="hvoa" /></p>
