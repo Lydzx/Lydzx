@@ -16,7 +16,7 @@
 - ⚜ Contributor Wikipedia Indonesia
 
 - 📚 Part of [Brainly.co.id](https://brainly.co.id)
-- 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312ncaexszedvv5ysr2vpfd72zfq&cover_image=true&theme=default)](https://open.spotify.com/user/312ncaexszedvv5ysr2vpfd72zfq?si=izgbJZQbSxGwjsKO3OZhHw)
 
 [![Discord](https://discord.c99.nl/widget/theme-2/744822067740016640.png)](https://discord.com/users/744822067740016640)
