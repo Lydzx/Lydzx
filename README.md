@@ -15,7 +15,7 @@
 
 - ⚜ Contributor Wikipedia Indonesia
 
-- 📚 Part of [Brainly.co.id](https://brainly.co.id)
+- 📚 Student & Part of [Brainly.co.id](https://brainly.co.id)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HVOA) ![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/744822067740016640?simple=true&logo=discord&logoColor=white&color=7289da) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/744822067740016640&color=43B581) 
 
