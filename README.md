@@ -17,7 +17,7 @@
 
 - 📚 Part of [Brainly.co.id](https://brainly.co.id)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HVOA)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HVOA) ![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/744822067740016640?simple=true&logo=discord&logoColor=white&color=7289da) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/744822067740016640&color=43B581) 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312ncaexszedvv5ysr2vpfd72zfq&cover_image=true&theme=default)](https://open.spotify.com/user/312ncaexszedvv5ysr2vpfd72zfq?si=izgbJZQbSxGwjsKO3OZhHw)
 
