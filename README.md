@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm HVOA (as Hwoa)</h1>
-<h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX, Wikipedia Indonesia's Contributor, Moderator on Brainly.co.id</h3>
+<h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX, Wikipedia Indonesia's Contributor</h3>
 
 
 
@@ -15,7 +15,7 @@
 
 - ⚜ Contributor Wikipedia Indonesia
 
-- 📚 Student & Part of [Brainly.co.id](https://brainly.co.id)
+- 📚 Student
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HVOA) ![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/744822067740016640?simple=true&logo=discord&logoColor=white&color=7289da) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/744822067740016640&color=43B581) 
 
