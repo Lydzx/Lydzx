@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm HVOA (as Hwoa)</h1>
-<h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX, Wikipedia Indonesia's Contributor</h3>
+<h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX, Moderator on Brainly.co.id,  Wikipedia Indonesia's Contributor</h3>
 
 
 
