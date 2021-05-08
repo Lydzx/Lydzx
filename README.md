@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dev@ddx.my.id**
 
-- ⚜ Contributor Wikipedia Indonesia
+- ⚜ [Wikipedia Indonesia](https://id.wikipedia.org)'s Contributor
 
 Currently working at:
 
