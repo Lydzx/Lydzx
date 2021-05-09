@@ -5,7 +5,7 @@
 
 - 🇮🇩 Translator from **Bandung, Indonesia**
 
-- 🌎 Find me on [Discord](https://discord.com/users/744822067740016640), [Brainly](https://brainly.co.id/profil/Lyden-14881941)
+- 🌎 Find me on [Discord](https://discord.com/users/744822067740016640), [Brainly](https://brainly.co.id/profil/Lyden-14881941), [Instagram](https://instagram.com/lydenzx)
 
 - 🛡️ Administrator & Co-Founder at [DDX](https://ddx.my.id)
 
