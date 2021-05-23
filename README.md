@@ -18,6 +18,7 @@
 Currently working at:
 
 -  [Brainly](https://brainly.co.id/) as Moderator
+-  [PreMiD](https://premid.app/contributors) as Translator, S/A
 -  [DDX](https://ddx.my.id) as Administrator & Co-Founder
 -  [IZ*ONE](https://discord.com/oauth2/authorize?client_id=744876991148326952&permissions=8&scope=bot) (Discord bot project)
 
