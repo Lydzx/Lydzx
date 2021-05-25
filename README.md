@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Nothing ;)**
 
-- 📫 How to reach me **dev@ddx.my.id**
+- 📫 How to reach me [Instagram](https://instagram.com/lydenzx) , [Twitter](https://twitter.com/HYOA_Dev), [Discord](https://discord.com/users/744822067740016640)
 
 - ⚜ [Wikipedia Indonesia](https://id.wikipedia.org)'s Contributor
 
