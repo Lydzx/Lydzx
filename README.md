@@ -18,7 +18,7 @@
 Currently working at:
 
 -  [Brainly](https://brainly.co.id/) as Moderator
--  [PreMiD](https://premid.app/) as Proofreader & Translator, S/A (Volunteer)
+-  [PreMiD](https://premid.app/) as Proofreader & Translator, S/A (Volunteer) [![PreMiD](https://discordapp.com/api/guilds/493130730549805057/embed.png)](https://discord.premid.app)
 -  [DDX](https://ddx.my.id) as Administrator & Co-Founder
 -  [IZ*ONE](https://discord.com/oauth2/authorize?client_id=744876991148326952&permissions=8&scope=bot) (Discord bot project)
 
