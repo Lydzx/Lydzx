@@ -15,6 +15,8 @@
 
 - ⚜ [Wikipedia Indonesia](https://id.wikipedia.org)'s Contributor
 
+- 🎵 [Musixmatch](https://musixmatch.com)'s Curator
+
 Currently working at:
 
 -  [Brainly](https://brainly.co.id/) as Moderator 
