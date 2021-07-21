@@ -27,6 +27,13 @@ Currently working at:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HVOA)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=njkuct5871gbgdk36pcpddl1j&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=njkuct5871gbgdk36pcpddl1j&redirect=true)
-
-[![Discord](https://discord.c99.nl/widget/theme-2/744822067740016640.png)](https://discord.com/users/744822067740016640)
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=njkuct5871gbgdk36pcpddl1j&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=njkuct5871gbgdk36pcpddl1j&cover_image=true&theme=natemoo-re" alt="Spotify Activity"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://discord.com/users/744822067740016640">
+    <img src="https://lanyard-profile-readme.vercel.app/api/744822067740016640" alt="Discord Profile"/>
+  </a>
+</p>
